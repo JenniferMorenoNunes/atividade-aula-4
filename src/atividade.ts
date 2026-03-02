@@ -25,7 +25,7 @@ op = Number(prompt("escolha "));
             cadastrado.splice(cadastrado.indexOf(item), 1);
             break;
         default:
-            console.log("digite entre 0 e 3");
+            console.log("fim do programa!");
     }
 
 
